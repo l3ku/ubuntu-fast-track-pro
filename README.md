@@ -80,4 +80,4 @@ This can be done various ways, I myself used the system settings GUI. If your Fa
 ```
 pacmd unload-module module-udev-detect && pacmd load-module module-udev-detect
 ```
-If there are some errors or something could be done better, suggestions are welcome in the comment section!
+If there are some errors or something could be done better, suggestions are welcome as issues or pull requests.
