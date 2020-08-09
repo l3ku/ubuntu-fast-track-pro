@@ -1,5 +1,5 @@
-# How to fix Ubuntu 18.04 not recognizing M-Audio Fast Track Pro USB audio interface
-After buying a new machine and installing Ubuntu 18.04 on it, I realized that my old Fast Track Pro USB audio interface was not recognized at all by the system as it did not appear in the system preferences. I was not willing to buy a new sound card yet, so as somewhat a Linux noob, I started troubleshooting and eventually got the sound card to work.
+# How to fix Ubuntu 18.04/20.04 not recognizing M-Audio Fast Track Pro USB audio interface
+After buying a new machine and installing Ubuntu 18.04 on it, I realized that my old Fast Track Pro USB audio interface was not recognized at all by the system as it did not appear in the system preferences. I was not willing to buy a new sound card yet, so as somewhat a Linux noob, I started troubleshooting and eventually got the sound card to work. This works in 20.04 too!
 
 Hopefully this saves you from a couple hours of frustration. :)
 
